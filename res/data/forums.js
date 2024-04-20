@@ -14,6 +14,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "我的世界小僵尸论坛",
+        url: "https://www.zitbbs.com",
+        state: "up",
+        createdAt: "2022/09/01",
+        updatedAt: "2024/04/20",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "收录了来自各地的我的世界（MC）爱好者们的各种资源.这里你可以找到最新最好玩的整合包、Mod，最炫酷的皮肤、材质包，以及各种我的世界最新的资讯，与其他人一起交流你的游戏心得。想了解我的世界怎么玩？在这里你可以找到各路高手分享的游戏心得与教程。",
+        reference: []
+    },
+    {
         title: "最MC",
         url: "http://www.zuimc.com",
         state: "up",
